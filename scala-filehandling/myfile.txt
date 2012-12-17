@@ -1,0 +1,3 @@
+start of file
+test scala file read
+end of file
